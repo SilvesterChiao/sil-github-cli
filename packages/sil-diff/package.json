@@ -1,0 +1,8 @@
+{
+  "name": "sil-diff",
+  "version": "0.0.1",
+  "description": "diff 算法实现",
+  "main": "src/index.js",
+  "author": "SilvesterChiao",
+  "license": "ISC"
+}

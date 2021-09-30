@@ -1,10 +1,18 @@
-# sil-github-cli
+# 轮子开发
 
-基于 nodejs 查看 Github 仓库的命令行工具
+-   [lodash 工具函数](./packages/sil-lodash/README.md)
+-   [React UI](./packages/sil-react-ui/README.md)
+-   [Virtual-DOM](./packages/sil-vdom/README.md)
+-   [diff 算法](./packages/sil-diff/README.md)
+-   [CLI 工具](./packages/sil-github-cli/README.md)
+-   [JavaScript 编译器](./packages/sil-diff/README.md)
 
-## 用法
+## CLI
 
 ```bash
-# 查看 SilvesterChiao 的 Github 仓库
-sil-github --repos SilvesterChiao
+npm run publish
+# 初始化
+lerna init --independent
+# 创建 package
+lerna create module-1
 ```

@@ -1,0 +1,8 @@
+{
+  "name": "sil-react-ui",
+  "version": "0.0.1",
+  "description": "React UI 库",
+  "main": "src/index.js",
+  "author": "SilvesterChiao",
+  "license": "ISC"
+}

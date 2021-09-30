@@ -1,0 +1,8 @@
+{
+  "name": "sil-vdom",
+  "version": "0.0.1",
+  "description": "Virtual-DOM 实现",
+  "main": "src/index.js",
+  "author": "SilvesterChiao",
+  "license": "ISC"
+}

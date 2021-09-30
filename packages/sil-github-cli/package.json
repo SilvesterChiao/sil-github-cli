@@ -1,0 +1,21 @@
+{
+  "name": "sil-github-cli",
+  "version": "0.0.1",
+  "description": "查看github项目命令行工具",
+  "main": "index.js",
+  "scripts": {
+    "sil-github": "node src/index.js"
+  },
+  "bin": {
+    "sil-github": "src/index.js"
+  },
+  "author": "SilvesterChiao",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^3.0.2",
+    "express": "^4.17.1",
+    "ora": "^4.0.2",
+    "request": "^2.88.0"
+  }
+}
